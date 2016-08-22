@@ -1,4 +1,3 @@
-layout_spectrum: 0.013761062873527408
 typography_spectrum: 0.8326604040339589
 color:
   brandStrength: 0.022524021565914154
@@ -11,6 +10,7 @@ color:
     - '#7ECEFD'
     - '#FFF6E5'
     - '#FF7F66'
+layout_spectrum: 0.013761062873527408
 author:
   name: Leandro Lagera
   email: llagera@foodnomad.net
@@ -18,5 +18,9 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7b918dd-8802-419c-99ff-aef0598980bf.jpg
 name: Food Nomad
+navigation:
+  - name: Old Site
+    url: 'http://www.foodnomad.net'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/06fc001e-e5cd-4974-95cd-90fa42053827.jpg
