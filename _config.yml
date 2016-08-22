@@ -1,16 +1,16 @@
-typography_spectrum: 0.9289356542285532
-color:
-  brandStrength: 0.5135994399897754
-  lightness: 0.38389342557638884
-  saturation: 0.5087897370103747
-  rhythmicContrast: 0.5724132931791246
-  brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
 layout_spectrum: 0.013761062873527408
+typography_spectrum: 0.8326604040339589
+color:
+  brandStrength: 0.022524021565914154
+  lightness: 0.3002507039345801
+  saturation: 0.46308692498132586
+  rhythmicContrast: 0.30196838290430605
+  brandColors:
+    - '#3E454C'
+    - '#2185C5'
+    - '#7ECEFD'
+    - '#FFF6E5'
+    - '#FF7F66'
 author:
   name: Leandro Lagera
   email: llagera@foodnomad.net
