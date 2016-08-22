@@ -1,0 +1,14 @@
+layout_spectrum: 0.013761062873527408
+typography_spectrum: 0.9289356542285532
+color:
+  brandStrength: 0.5135994399897754
+  lightness: 0.38389342557638884
+  saturation: 0.5087897370103747
+  rhythmicContrast: 0.5724132931791246
+  brandColors:
+    - '#2B3A42'
+    - '#3F5765'
+    - '#BDD4DE'
+    - '#EFEFEF'
+    - '#FF530D'
+name: Food Nomad
