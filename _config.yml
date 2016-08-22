@@ -1,14 +1,28 @@
-layout_spectrum: 0.013761062873527408
-typography_spectrum: 0.9289356542285532
+typography_spectrum: 0.1412273827008903
 color:
-  brandStrength: 0.5135994399897754
-  lightness: 0.38389342557638884
-  saturation: 0.5087897370103747
-  rhythmicContrast: 0.5724132931791246
+  brandStrength: 0.234804559731856
+  lightness: 0.5214796243235469
+  saturation: 0.15275794663466513
+  rhythmicContrast: 0.32940908800810575
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
+layout_spectrum: 0.9734427626244724
+author:
+  name: Leandro Lagera
+  email: llagera@foodnomad.net
+  url: www.foodnomad.net
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ab7c1be-4e91-4e69-bf27-f04db6572b48.jpg
 name: Food Nomad
+navigation:
+  - name: Old Food Nomad Posts
+    url: 'http://foodnomad.blogspot.com'
+    type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/06fc001e-e5cd-4974-95cd-90fa42053827.jpg
+title: Food Nomad
+description: 'Coffee, Bourbon, and Good Food'
